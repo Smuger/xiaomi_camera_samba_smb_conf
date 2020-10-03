@@ -1,0 +1,2 @@
+# Mounting NTFS usb drive
+/dev/sda1 /mnt/HDD ntfs-3g defaults,auto,users,rw,nofail,umask=000 0 0
