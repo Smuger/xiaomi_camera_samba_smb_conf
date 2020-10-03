@@ -1,7 +1,7 @@
 sudo apt-get update
 sudo apt-get upgrade
 
-apt --fix-broken install
+apt --fix-broken install -y
 
 sudo apt-get install samba samba-common-bin
 
